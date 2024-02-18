@@ -71,4 +71,12 @@ VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPL
 
 * **NOTA: Obviamente se necesita mucho mas que esto para que un cheat sea realmente `confiable y estable` para ello es necesario aprender un poco de MIPS, logica y aprender a seguir el flujo del juego.**
 
+# Requisitos previos
+
+* PPSSPP para Windows (recomendado, ya que incluye exclusivamente Debugger).
+* Un juego en formato ISO previamente dumpeado en la libreria de juegos de PPSSPP
+* Editor de memoria como CheatEngine o ArtMoney.
+* Aquí se recomienda encarecidamente Windows; la edición de memoria externa está limitada en otros sistemas operativos.
+* [Notepad++](https://notepad-plus-plus.org) para análisis detallados de parches PPSSPP.
+* Funcionalidad analítica, de agregación e inferencia del cerebro humano.
 
