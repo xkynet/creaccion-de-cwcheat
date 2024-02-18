@@ -25,22 +25,22 @@
   
 *	No importa si no se tiene conocimiento del tema, `todo aporte` es de importancia.
   
-*	Toda persona que cree y comparta un CwCheat, `debe dejar registrado el proceso de cómo fue creado,` ya sea tanto `textual` como en un `video,` de forma que, si al activarlo, este presenta `inconvenientes` como:
+*	Toda persona que cree y comparta un CwCheat, `debe dejar registrado el proceso de cómo fue creado,` ya sea tanto `textual` como en un `video`, (*preferiblemente*) de forma que, si al activarlo, este presenta `inconvenientes` como:
   
-    **Crasheos del emulador
- 	  Malos accesos en la memoria
- 	  Crasheos en consola física psp
- 	  No funciona o hace nada
- 	  funciona parcialmente en diferentes zonas
- 	  etc.**
+ 	  * Crasheos del emulador.
+ 	  * Malos accesos en la memoria.
+ 	  * Crasheos en consola física psp.
+    * No funciona o hace nada.
+    * funciona parcialmente en diferentes zonas.
+    * etc.
  	
-  al tener el registro de este,  las personas puedan ayudar a buscar la manera de solucionarlo y explicar el origen del problema, esto ayudara a los mas nuevos en el futuro.
+  al tener el registro de este,  las personas puedan ayudar a buscar la manera de `solucionar` y `explicar el origen del problema`, esto ayudara a los mas nuevos en el futuro.
   
 * Proceso de registro:
   
-  `a.`Al crearse un cwcheat debe de registrarse en un archivo de texto todos los pasos que se realizaron para su creación, es decir, como se llegó a la dirección final, que, por lo general, es la que se usamos al momento de     activar el cwcheat.
+  `a.`Al crearse un cwcheat debe de `registrarse` en un archivo de `texto` todos los pasos que se realizaron para su creación, es decir, como se llegó a la `dirección final`, que por lo general, es la que se usamos al momento de `activar` el cwcheat.
 
-  `b.`	Detallar los valores que venían originalmente en la dirección original del cwcheat y por cuales fueron cambiados y el por qué.
+  `b.`	Detallar los `valores` que venían originalmente/inicialmente en la `dirección original` del cwcheat y por cuales `fueron cambiados` y el `por qué` (*la razon del cambio de ese valor*).
   
   `c.`	Crear un video con buen audio y el paso a paso, explicado detalladamente el cómo se creó el cheat.
     i.	Antes de comenzar la explicación/grabacion, se debe mostrar la versión del emulador y su configuración, y de la misma forma con el cheat engine.
