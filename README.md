@@ -80,10 +80,39 @@ VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPL
 * [Notepad++](https://notepad-plus-plus.org) para análisis detallados de parches PPSSPP.
 * Funcionalidad analítica, de agregación e inferencia del cerebro humano.
 
-# Comprension de la estructura de los datos tipo cwcheat
-
+# GUIA:
+* Comprension de la estructura de los datos tipo cwcheat.
+* Herramienta cheat engine.
+* Porteo de Cwcheat entre diferentes versiones del juego.
+  
+![ceppsspptut es_pages-to-jpg-0001](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/09d53a16-6e68-453d-8d22-a2f013a05153)
+![ceppsspptut es_pages-to-jpg-0002](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/1c22cfeb-e79f-4c3b-9e8e-2e6847d8806c)
+![ceppsspptut es_pages-to-jpg-0003](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/d9f805c7-5b36-49bc-91a7-3a5690c4a5df)
+![ceppsspptut es_pages-to-jpg-0004](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/af46399d-8a92-4ea0-aee7-8be16a1fb6aa)
+![ceppsspptut es_pages-to-jpg-0005](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/e6f35ecb-9378-442a-b1b1-b9ae5933fa17)
+![ceppsspptut es_pages-to-jpg-0006](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/8fa78e8c-bf83-4287-b9ec-b59329eb11c0)
+![ceppsspptut es_pages-to-jpg-0007](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/e8cd0b05-02e7-4649-acaf-b0e8784f7209)
+![ceppsspptut es_pages-to-jpg-0008](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/5b979e61-ceef-49b2-af76-ebae21041ea5)
+![ceppsspptut es_pages-to-jpg-0009](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/5c1f716b-46bb-4c14-90ca-d2acbe5d2781)
+![ceppsspptut es_pages-to-jpg-0010](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/71a1ebcc-8275-4900-ba2b-94b13aa39628)
+![ceppsspptut es_pages-to-jpg-0011](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/3e5c2acf-bc63-4e34-8bfd-557116ba4e3d)
+![ceppsspptut es_pages-to-jpg-0012](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/58aafa3e-3dc9-4fc9-bafe-579a926b959c)
+![ceppsspptut es_pages-to-jpg-0013](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/a166da06-342e-4696-813d-2d7b289cf31f)
+![ceppsspptut es_pages-to-jpg-0014](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/15473f75-1526-4825-b969-f9fdecf0f648)
+![ceppsspptut es_pages-to-jpg-0015](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/2e9bf369-c589-4cc7-a3af-828f225d5693)
+![ceppsspptut es_pages-to-jpg-0016](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/9c72a428-ea97-4018-a98c-115aa6541519)
+![ceppsspptut es_pages-to-jpg-0017](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/928cff14-046d-48d4-b3e5-8c3106e235a1)
+![ceppsspptut es_pages-to-jpg-0018](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/8e1d2f02-6964-481f-8b9c-443b6d72182b)
+![ceppsspptut es_pages-to-jpg-0019](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/765583cb-9467-404e-9898-ec50fe09cf92)
+![ceppsspptut es_pages-to-jpg-0020](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/c5703e8b-1d1d-4b0c-bc3f-0000a0a346f6)
+![ceppsspptut es_pages-to-jpg-0021](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/dc5dbd2d-c59c-4ce1-af37-214d70c6e06a)
+![ceppsspptut es_pages-to-jpg-0022](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/51a59811-afad-4968-bfec-77cea6a1b95a)
+![ceppsspptut es_pages-to-jpg-0023](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/6acf8e4d-4c9c-414a-b43e-fd66a3f350b5)
+![ceppsspptut es_pages-to-jpg-0024](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/b9b10107-a4c6-4f50-bfdf-56bb7743b818)
+![ceppsspptut es_pages-to-jpg-0025](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/15693072-b917-41d1-97f5-fb9d35d14c4b)
+Link de la guia en PDF en Español.
 [ceppsspptut.es.pdf](https://github.com/xkynet/creaccion-de-cwcheat/files/14323804/ceppsspptut.es.pdf)
-
+Link de la guia en PDF en Ingles.
 [ceppsspptut.pdf](https://github.com/xkynet/creaccion-de-cwcheat/files/14323805/ceppsspptut.pdf)
 
 
