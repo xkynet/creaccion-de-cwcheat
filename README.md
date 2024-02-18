@@ -38,9 +38,9 @@
   
 * Proceso de registro:
   
-  `a.`Al crearse un cwcheat debe de `registrarse` en un archivo de `texto` todos los pasos que se realizaron para su creación, es decir, como se llegó a la `dirección final`, que por lo general, es la que se usamos al momento de `activar` el cwcheat.
+  `a.`Al crearse un cwcheat debe de `registrarse` en un archivo de `texto` [todos los pasos que se realizaron para su creación], es decir, como se llegó a la [dirección final], que por lo general, es la que se usamos al momento de `activar` el cwcheat.
 
-  `b.`	Detallar los `valores` que venían originalmente/inicialmente en la `dirección original` del cwcheat y por cuales `fueron cambiados` y el `por qué` (*la razon del cambio de ese valor*).
+  `b.`	Detallar los `valores` que [venían originalmente/inicialmente] en la `dirección original` del cwcheat y por cuales `fueron cambiados` y el `por qué` [(*la razon del cambio de ese valor*).]
   
   `c.`	Crear un video con buen audio y el paso a paso, explicado detalladamente el cómo se creó el cheat.
     i.	Antes de comenzar la explicación/grabacion, se debe mostrar la versión del emulador y su configuración, y de la misma forma con el cheat engine.
