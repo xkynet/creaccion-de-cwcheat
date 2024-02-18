@@ -62,7 +62,9 @@ Al terminar la creación del Cwcheat este debe `cumplir` los `requisitos` para s
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPLO... -A-A-A-A-B-C-B-A-A->
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-  
+
+ * NOTA: Obviamente se necesita mucho mas que esto para que un cheat sea realmente `confiable y estable` para ello es necesario aprender un poco de MIPS, logica y aprender a seguir el flujo del juego.
+   
 * Si en el proceso de filtrado todo o la gran mayoria esta en verde al momento de llegar a **los accesos a la memoria**, entonces es un cwcheat `confiable` y "estable", solo entonces se testea ese cwcheat en una consola física psp, de otra manera podía ocasionarse un hardbrick / softbrick. 
 
 * Es muy `importante` **respetar los bites que se usan a la hora de crear un cwcheat** ya que si se modifica una dirección que no se debe, así sea solo un par de bites, esto puede crashear y generar conflictos, y en dado caso que se **guarde la partida** puede llegar a corromperse el savedata.
