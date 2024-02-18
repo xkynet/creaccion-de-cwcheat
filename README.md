@@ -57,3 +57,16 @@
   `e.`	**Opcional pero muy importante:** Debido a que esta comunidad es bastante amplia, siempre nos encontraremos con problemas debido a la `barrera del lenguaje`, propongo como solución recaudar un pequeño fondo para abrir una cuenta en `RASK.AI` controlada por los moderadores, de esa manera con la inteligencia artificial podemos doblar los videos, de tal manera que esta barrera no sea un impedimento, de lo contrario en lo posible `ayudar en la creación de subtítulos` para estos videos.
   
 Al terminar la creación del Cwcheat este debe `cumplir` los `requisitos` para ser `compartido` a la comunidad, de no ser así se debe `clarificar o filtrar` la fase o estado en la que se encuentra el cheat, de forma que se sepa que tan fiable es su uso de la siguiente manera:
+
+![image](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/045d4145-7efc-4ec1-a848-a42f1c362784)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPLO... -A-A-A-A-B-C-B-A-A->
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  
+* Si en el proceso de filtrado todo o la gran mayoria esta en verde al momento de llegar a **los accesos a la memoria**, entonces es un cwcheat `confiable` y "estable", solo entonces se testea ese cwcheat en una consola física psp, de otra manera podía ocasionarse un hardbrick / softbrick. 
+
+* Es muy `importante` **respetar los bites que se usan a la hora de crear un cwcheat** ya que si se modifica una dirección que no se debe, así sea solo un par de bites, esto puede crashear y generar conflictos, y en dado caso que se **guarde la partida** puede llegar a corromperse el savedata.
+
+* SI un Cwcheat es `compartido en el hilo` y **no cumple el filtrado, dejar en claro que su uso es bajo su propio riesgo**, y debera comentar que es necesario `**arreglarlo**` antes de compartirlo/usarlo y que la razón por la que se comparte, es para `busca ayuda` a los demás para llegar a una posible `solución o fix` de este, ya que este no debe de compartirse en la red, ya que podíamos causar el brickeo de muchas consolas PSP halla fuera.
+
+
