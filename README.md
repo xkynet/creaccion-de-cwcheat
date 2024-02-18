@@ -74,9 +74,16 @@ VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPL
 # Requisitos previos
 
 * PPSSPP para Windows (recomendado, ya que incluye exclusivamente Debugger).
-* Un juego en formato ISO previamente dumpeado en la libreria de juegos de PPSSPP
+* Un juego en formato ISO previamente dumpeado en la libreria de juegos de PPSSPP en este caso usamos el juego ULUS10022: The legend of heroes
 * Editor de memoria como CheatEngine o ArtMoney.
 * Aquí se recomienda encarecidamente Windows; la edición de memoria externa está limitada en otros sistemas operativos.
 * [Notepad++](https://notepad-plus-plus.org) para análisis detallados de parches PPSSPP.
 * Funcionalidad analítica, de agregación e inferencia del cerebro humano.
+
+# Comprension de la estructura de los datos tipo cwcheat
+
+[ceppsspptut.es.pdf](https://github.com/xkynet/creaccion-de-cwcheat/files/14323804/ceppsspptut.es.pdf)
+
+[ceppsspptut.pdf](https://github.com/xkynet/creaccion-de-cwcheat/files/14323805/ceppsspptut.pdf)
+
 
