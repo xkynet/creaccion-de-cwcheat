@@ -82,8 +82,8 @@ VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPL
 
 # GUIA:
 * Comprension de la estructura de los datos tipo cwcheat.
-* Herramienta cheat engine.
-* Porteo de Cwcheat entre diferentes versiones del juego.
+* Uso y configuracion de Herramienta Cheat engine.
+* Porteo de Cwcheat entre diferentes versiones del mismo juego.
   
 ![ceppsspptut es_pages-to-jpg-0001](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/09d53a16-6e68-453d-8d22-a2f013a05153)
 ![ceppsspptut es_pages-to-jpg-0002](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/1c22cfeb-e79f-4c3b-9e8e-2e6847d8806c)
@@ -110,9 +110,10 @@ VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPL
 ![ceppsspptut es_pages-to-jpg-0023](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/6acf8e4d-4c9c-414a-b43e-fd66a3f350b5)
 ![ceppsspptut es_pages-to-jpg-0024](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/b9b10107-a4c6-4f50-bfdf-56bb7743b818)
 ![ceppsspptut es_pages-to-jpg-0025](https://github.com/xkynet/creaccion-de-cwcheat/assets/160412710/15693072-b917-41d1-97f5-fb9d35d14c4b)
-Link de la guia en PDF en Español.
+
+* Link de la guia en PDF en Español.
 [ceppsspptut.es.pdf](https://github.com/xkynet/creaccion-de-cwcheat/files/14323804/ceppsspptut.es.pdf)
-Link de la guia en PDF en Ingles.
+* Link de la guia en PDF en Ingles.
 [ceppsspptut.pdf](https://github.com/xkynet/creaccion-de-cwcheat/files/14323805/ceppsspptut.pdf)
 
 
