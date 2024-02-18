@@ -34,22 +34,26 @@
     * funciona parcialmente en diferentes zonas.
     * etc.
  	
-  al tener el registro de este,  las personas puedan ayudar a buscar la manera de `solucionar` y `explicar el origen del problema`, esto ayudara a los mas nuevos en el futuro.
+  gracias a este registro, las personas podran ayudar a buscar la manera de `solucionar` y `explicar el origen del problema`, en dado caso, y esto ayudara a los mas nuevos en el futuro.
   
-* Proceso de registro:
+# El proceso de registro:
   
-  `a.`Al crearse un cwcheat debe de `registrarse` en un archivo de `texto` [todos los pasos que se realizaron para su creación], es decir, como se llegó a la [dirección final], que por lo general, es la que se usamos al momento de `activar` el cwcheat.
+  `a.`Al crearse un cwcheat debe de `registrarse` en un archivo de `texto` **[todos los pasos que se realizaron para su creación!]** es decir, como se llegó a la **[dirección final]**, que por lo general, es la que se usamos al momento de `activar` el cwcheat.
 
-  `b.`	Detallar los `valores` que [venían originalmente/inicialmente] en la `dirección original` del cwcheat y por cuales `fueron cambiados` y el `por qué` [(*la razon del cambio de ese valor*).]
-  
-  `c.`	Crear un video con buen audio y el paso a paso, explicado detalladamente el cómo se creó el cheat.
-    i.	Antes de comenzar la explicación/grabacion, se debe mostrar la versión del emulador y su configuración, y de la misma forma con el cheat engine.
-  
-  `d.`	Este video se subirá a unas cuentas genéricas de youtube (según en idioma del publico), ya que mantener videos directamente en el hilo, cuesta dinero, así que de esta forma nos evitamos este conflicto.
-    i.	Ejemplo: PPSSPP_CWCHEATS_ESPAÑOL_DUB
-    ii.	Ejemplo: PPSSPP_CWCHEATS_ENGLISH_DUB
-    iii.	Ejemplo: PPSSPP_CWCHEATS_..._DUB
+  `b.`	Detallar los `valores` que **[venían originalmente/inicialmente]** en la `dirección original` del cwcheat y por cuales `fueron cambiados` y el `por qué` **(*la razon del cambio de ese valor*).**
 
-  `e.`	Opcional pero importante: Debido a que esta comunidad es bastante amplia siempre nos encontraremos con problemas debido a la barrera del lenguaje, propongo como solución recaudar un pequeño fondo para abrir una cuenta en RASK.AI controlada por los moderadores, de esa manera con la inteligencia artificial podamos doblar los videos de tal manera que esta barrera no sea un impedimento, de lo contrario en lo posible ayudar en la creación de subtítulos para estos videos.
+  **OPCIONAL**
   
-Al terminar la creación del Cwcheat este debe cumplir los requisitos para ser compartido a la comunidad, de no ser así se debe clarificar o filtrar la fase o estado en la que se encuentra el cheat, de forma que se sepa que tan fiable es su uso de la siguiente manera:
+  `c.`	Crear un `video` con buen audio y el `paso a paso`, explicado `detalladamente` el cómo se creó el cheat.
+
+   * * **Antes de comenzar la explicación/grabacion**, `se debe mostrar la versión del emulador y su configuración`, y de la misma forma con el `cheat engine`.
+  
+  `d.`	Este `video` se subiriá a una `cuenta genérica` de youtube (según en idioma del publico), ya que mantener videos directamente en el hilo, **cuesta dinero**, así que de esta forma nos evitamos este conflicto.
+  
+     * * Ejemplo: PPSSPP_CWCHEATS_ESPAÑOL_DUB
+     * * Ejemplo: PPSSPP_CWCHEATS_ENGLISH_DUB
+     * *  Ejemplo: PPSSPP_CWCHEATS_..._DUB
+
+  `e.`	**Opcional pero muy importante:** Debido a que esta comunidad es bastante amplia, siempre nos encontraremos con problemas debido a la `barrera del lenguaje`, propongo como solución recaudar un pequeño fondo para abrir una cuenta en `RASK.AI` controlada por los moderadores, de esa manera con la inteligencia artificial podemos doblar los videos, de tal manera que esta barrera no sea un impedimento, de lo contrario en lo posible `ayudar en la creación de subtítulos` para estos videos.
+  
+Al terminar la creación del Cwcheat este debe `cumplir` los `requisitos` para ser `compartido` a la comunidad, de no ser así se debe `clarificar o filtrar` la fase o estado en la que se encuentra el cheat, de forma que se sepa que tan fiable es su uso de la siguiente manera:
