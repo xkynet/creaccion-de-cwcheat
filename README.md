@@ -62,7 +62,8 @@ Al terminar la creación del Cwcheat este debe `cumplir` los `requisitos` para s
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 VERIFICAR SI CUMPLE LA MAYORIA DE LAS CONDICIONES DE IZQUIERDA A DERECHA: EJEMPLO... -A-A-A-A-B-C-B-A-A->
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
- 
+ [tabla de filtrado.xlsx](https://github.com/xkynet/creaccion-de-cwcheat/files/14325582/tabla.de.filtrado.xlsx)
+
 * Si en el proceso de filtrado todo o la gran mayoria esta en verde al momento de llegar a **los accesos a la memoria**, entonces es un cwcheat `confiable` y "estable", solo entonces se testea ese cwcheat en una consola física psp, de otra manera podía ocasionarse un hardbrick / softbrick. 
 
 * Es muy `importante` **respetar los bites que se usan a la hora de crear un cwcheat** ya que si se modifica una dirección que no se debe, así sea solo un par de bites, esto puede crashear y generar conflictos, y en dado caso que se **guarde la partida** puede llegar a corromperse el savedata.
